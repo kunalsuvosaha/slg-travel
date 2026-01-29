@@ -1,9 +1,7 @@
-# Siliguri Travels - Travel Agency Landing Page
+# Slg Travels - Travel Agency Landing Page
 
 A pixel-perfect, fully responsive travel agency landing page built with **React** and **Tailwind CSS**. This project was designed to match a provided Figma concept with high fidelity, ensuring a modern, premium user experience across all devices.
 
-![Siliguri Travels Preview](https://github.com/user-attachments/assets/placeholder-image) 
-*(Note: Visual preview available in local environment)*
 
 ## 🚀 Features
 
@@ -80,4 +78,3 @@ The site includes a specialized **Mobile Action Footer** that only appears on sc
 *   [LinkedIn Profile](https://linkedin.com/)
 
 ---
-*© 2024 Siliguri Travels. All Rights Reserved.*
