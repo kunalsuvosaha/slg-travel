@@ -70,8 +70,7 @@ The site includes a specialized **Mobile Action Footer** that only appears on sc
 *   **Support** (Opens WhatsApp)
 
 ## 👨‍💻 Credits
-
-**Developed by Reboot AI**  
+ 
 **Made by Kunal**
 
 *   [GitHub Profile](https://github.com/)
