@@ -11,14 +11,14 @@ const MobileNav = () => {
                     <span className="text-gray-400 text-[10px] font-medium tracking-wide group-hover:text-white transition-colors">Dashboard</span>
                 </a>
 
-                <a href="tel:+919088500500" className="flex flex-col items-center group w-1/3">
+                <a href="tel:+918001111227" className="flex flex-col items-center group w-1/3">
                     <div className="w-14 h-9 rounded-2xl bg-primary/90 flex items-center justify-center mb-1 shadow-lg shadow-orange-900/20 group-hover:bg-primary transition-all duration-300 scale-110">
                         <Phone size={20} className="text-white fill-white" />
                     </div>
                     <span className="text-white text-[10px] font-bold tracking-wide mt-0.5">Book Call</span>
                 </a>
 
-                <a href="https://wa.me/919088500500" className="flex flex-col items-center group w-1/3">
+                <a href="https://wa.me/918001111227" className="flex flex-col items-center group w-1/3">
                     <div className="w-14 h-9 rounded-2xl bg-white/5 flex items-center justify-center mb-1 group-hover:bg-primary/20 transition-all duration-300">
                         <Headphones size={20} className="text-gray-300 group-hover:text-primary transition-colors" />
                     </div>

@@ -37,7 +37,7 @@ const Navbar = () => {
                                 </div>
                                 <div className="flex flex-col leading-none text-white">
                                     <span className="text-[11px] font-medium opacity-90 mb-0.5">Call Anytime</span>
-                                    <span className="font-bold text-lg">+91 90888 8888</span>
+                                    <span className="font-bold text-lg">+91 8001111227</span>
                                 </div>
                             </div>
                         </div>
@@ -64,7 +64,7 @@ const Navbar = () => {
                                 <Phone size={18} fill="white" />
                                 <div>
                                     <div className="text-xs">Call Anytime</div>
-                                    <div className="font-bold">+91 90888 8888</div>
+                                    <div className="font-bold">+91 8001111227</div>
                                 </div>
                             </div>
                         </div>

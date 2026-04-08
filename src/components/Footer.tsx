@@ -64,22 +64,19 @@ const Footer = () => {
                         <ul className="space-y-4 text-sm text-gray-300">
                             <li className="flex items-start gap-3">
                                 <Phone size={18} className="text-white mt-1" />
-                                <span>+91 9088500500 / 9088500500</span>
+                                <span>+91 8001111227 / 8001111227</span>
                             </li>
                             <li className="flex items-center gap-3">
                                 <div className="w-5 h-5 bg-white rounded-full flex items-center justify-center text-black font-bold text-xs p-3">WA</div>
-                                <span>+91 9088500500</span>
+                                <span>+91 8001111227</span>
                             </li>
                             <li className="flex items-center gap-3">
                                 <Mail size={18} className="text-white" />
-                                <span>info@siliguritravels.com</span>
+                                <span>kunalsuvosaha@gmail.com</span>
                             </li>
                             <li className="flex items-start gap-3">
                                 <MapPin size={18} className="text-white mt-1" />
-                                <span>Sister Nivedita Road, Opposite Margaret School, Siliguri WB 734003</span>
-                            </li>
-                            <li className="mt-4 font-bold text-white">
-                                GST NO : 19CAIPD7968L1ZX
+                                <span>Murshidabad, West Bengal</span>
                             </li>
                         </ul>
                     </div>
@@ -92,7 +89,7 @@ const Footer = () => {
                     </div>
 
                     <div className="flex flex-col items-center md:items-end mt-4 md:mt-0">
-                        <p className="flex items-center gap-1 mb-2">Developed By <span className="text-white text-lg font-bold tracking-wider">Reboot <span className="text-secondary">AI</span></span></p>
+                        <p className="flex items-center gap-1 mb-2">Developed By <span className="text-white text-lg font-bold tracking-wider">Kunal</span></p>
 
                         <div className="flex items-center gap-3 bg-white/5 py-1 px-3 rounded-full">
                             <span className="text-gray-400">Made by <span className="text-white font-medium">Kunal</span></span>
